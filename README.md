@@ -68,9 +68,9 @@ Backend Developer with strong foundation in **Data Structures**, **System Design
 
 ## 🏆 Certifications
 
-- **Foundations of Cybersecurity** (Google) — [Security Principles Link](https://link)
-- **Play It Safe: Manage Security Risks** (Google) — [Risk Management Link](https://link)
-- **RHCSA System Administration** — Linux Administration
+- **Foundations of Cybersecurity** (Google) — [Security Principles Link](https://www.coursera.org/account/accomplishments/records/M7NAS1ZNB0XL)
+- **Play It Safe: Manage Security Risks** (Google) — [Risk Management Link](https://www.coursera.org/account/accomplishments/records/YSZZMLML7XFA)
+- **RHCSA System Administration** — [Linux Administration](https://drive.google.com/file/d/186mTUVcshNJS57EVxNn_DN2vK84D-U4G)
 
 ---
 
@@ -85,9 +85,9 @@ Backend Developer with strong foundation in **Data Structures**, **System Design
 
 ## 🔗 Connect With Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Sonu_Kumar)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sonukumarmg)
+- **Email**: [fsanusingh451@gmail.com](mailto:fsanusingh451@gmail.com)
+- **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Sonu_kumar_06)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sonu-kumar-571846290)
 - **GitHub**: [GitHub Profile](https://github.com/sonukumarmg)
 
 ---
